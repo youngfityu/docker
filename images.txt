@@ -1,11 +1,2 @@
 #支持私库
-calico/cni:v3.26.1
-calico/pod2daemon-flexvol:v3.26.1
-registry.cn-hangzhou.aliyuncs.com/jiange666/coredns:v1.10.1
-registry.cn-hangzhou.aliyuncs.com/jiange666/pause:3.9
-registry.aliyuncs.com/google_containers/pause:3.7
-registry.cn-hangzhou.aliyuncs.com/hujiaming/nfs-subdir-external-provisioner:v4.0.2
-kubernetesui/dashboard:v2.7.0
-kubernetesui/metrics-scraper:v1.0.8
-registry.cn-hangzhou.aliyuncs.com/hujiaming/nginx:1.26.0
-registry.cn-hangzhou.aliyuncs.com/hujiaming/mysql:8.0.34
+registry.aliyuncs.com/google_containers/pause:3.9
