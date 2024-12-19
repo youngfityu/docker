@@ -1,2 +1,2 @@
 #支持私库
-registry.cn-hangzhou.aliyuncs.com/hujiaming/nacos-mysql:2.0.4
+registry.cn-hangzhou.aliyuncs.com/hujiaming/nacos-server:v2.0.4
