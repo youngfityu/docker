@@ -1,3 +1,9 @@
-nginx
 #支持私库
-registry.cn-hangzhou.aliyuncs.com/jiange666/kube-proxy:v1.28.15
+registry.cn-hangzhou.aliyuncs.com/jiange666/kube-controller-manager:v1.28.15
+registry.cn-hangzhou.aliyuncs.com/jiange666/kube-apiserver:v1.28.15
+calico/cni:v3.28.2
+calico/node-driver-registrar:v3.28.2
+calico/csi:v3.28.2
+calico/pod2daemon-flexvol:v3.28.2
+calico/node:v3.28.2
+registry.cn-hangzhou.aliyuncs.com/jiange666/etcd:3.5.15-0
