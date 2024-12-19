@@ -1,2 +1,10 @@
 #支持私库
 registry.cn-hangzhou.aliyuncs.com/hujiaming/nginx-ingress-controller:v1.6.4
+registry.cn-hangzhou.aliyuncs.com/hujiaming-01/system:1.0.0
+registry.cn-hangzhou.aliyuncs.com/hujiaming-01/gateway:1.0.0
+registry.cn-hangzhou.aliyuncs.com/hujiaming-01/file:1.0.0
+registry.cn-hangzhou.aliyuncs.com/hujiaming/sentinel:1.8.6
+registry.cn-shenzhen.aliyuncs.com/xiaohh-docker/redis:5.0.14
+registry.cn-hangzhou.aliyuncs.com/hujiaming/nacos-server:v2.0.4
+registry.cn-hangzhou.aliyuncs.com/hujiaming-01/mysql:1.0.0
+registry.cn-hangzhou.aliyuncs.com/hujiaming/nacos-server:v2.0.4
