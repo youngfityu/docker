@@ -1,2 +1,2 @@
 #支持私库
-registry.aliyuncs.com/google_containers/pause:3.7
+registry.cn-hangzhou.aliyuncs.com/hujiaming/nacos-mysql:2.0.4
